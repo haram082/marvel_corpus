@@ -33,7 +33,6 @@ NAMOR: 71 dialogues extracted
 
 
 
-
 Spiderman hero dialogues extracted: 682
 Spiderman villain dialogues extracted: 119
 
@@ -46,6 +45,3 @@ Thor villain dialogues extracted: 148
 Black Panther hero dialogues extracted: 368
 Black Panther villain dialogues extracted: 121
 
-
-Dialogues extracted successfully to 'joker-2019_dialogues' directory.
-JOKER: 223 dialogues extracted
